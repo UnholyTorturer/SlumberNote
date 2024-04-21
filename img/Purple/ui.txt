@@ -1,0 +1,4 @@
+background color = #7136c9
+text color = #baacd0
+font = Tahoma
+font size = 18

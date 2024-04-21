@@ -1,0 +1,4 @@
+background color = black
+text color = white
+font = Tahoma
+font size = 18

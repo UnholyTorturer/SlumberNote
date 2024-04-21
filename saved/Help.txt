@@ -1,0 +1,15 @@
+SlumberNote Help
+
+Q: Why is it called SlumberNote?
+A: Because the idea for this little app came to me in a dream.
+
+Q: What's with the weird icons?
+A: Well, something like that was part of the dream and I decided to keep them. As for what they do, well, the top one is close, the tools are settings, the lovey face is save, because if you love what you have written you wanna save it, and the spy dude is load, because it looks for the files. The rainbow deletes the contents of the editor, because you send the contents over the rainbow bridge.
+
+Q: What's with the tab on the side?
+
+A: Click it to hide the interface. Click it again to show. SlumberNote will remain on top of most windows, always ready for you.
+
+Q: Can I customize SlumberNote?
+
+A: Heck, yeah, you can! The "config" file in the root directory allows you to change the UI by changing the name of the UI folder, or change where files are saved. The ui.txt file inside each theme folder allows you to change the text area background color, text color, font and font size. If you have graphics experience, you can make your own themes for SlumberNote.
