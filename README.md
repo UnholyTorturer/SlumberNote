@@ -3,3 +3,5 @@ On 15 April, 2024, I had a dream about a note taking app. I woke up the next mor
 If you try this app out, try clicking the tools first to see the help file, which explains a bit about how it works and all that.
 
 Yes, I know the Purple UI is terrible. I'm not much of a graphic designer. 
+
+Python 3.11 or later is required to run this app.
