@@ -5,3 +5,5 @@ If you try this app out, try clicking the tools first to see the help file, whic
 Yes, I know the Purple UI is terrible. I'm not much of a graphic designer. 
 
 Python 3.11 or later is required to run this app.
+
+If you do not have Python on your PC and you want to try SlumberNote, you can install Python 3.11 from the Microsoft Store. 
